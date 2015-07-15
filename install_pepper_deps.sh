@@ -131,3 +131,5 @@ $TAR mysql-5.6.25-linux-glibc2.5-x86_64.tar.gz
 sudo mv mysql-5.6.25-linux-glibc2.5-x86_64 /usr/local
 cd /usr/local
 sudo ln -s mysql-5.6.25-linux-glibc2.5-x86_64 mysql
+
+sudo ldconfig
